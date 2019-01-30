@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "400878942186",
+    "firebase_url": "https://cmarkproject.firebaseio.com",
+    "project_id": "cmarkproject",
+    "storage_bucket": "cmarkproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400878942186:android:30e4786e0a3f8971",
+        "android_client_info": {
+          "package_name": "com.cmarkandroidapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400878942186-kkp964nvvbipuicaas6eq82dqtid8hou.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cmarkandroidapp",
+            "certificate_hash": "5cd588f254728701bb3336621cbbbc9bfcbef0b0"
+          }
+        },
+        {
+          "client_id": "400878942186-qagt3cvsvqslv9sds2tp6umujqu89kam.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa6rZG-q2iD2Wp1G5S7nNZxM2iNF7ecNA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "400878942186-qagt3cvsvqslv9sds2tp6umujqu89kam.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CMarkAndroidApp</string>
+    <string name="welcome">Welcome to our app</string>
+    <string name="username">User Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="haveaccount"> Have an account? Sign in </string>
+    <string name="signup">you do not have an account ?Sign Up</string>
+    <string name="upload">Upload</string>
+    <string name="add">Add Order</string>
+    <string name="logout">Logout</string>
+    <string name="ordertitle">Order Title</string>
+    <string name="orderdesc">Order description</string>
+</resources>
